@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
-<h3 align="center">A passionate full stack developer,Problem solver from India</h3>
+<h3 align="center">A passionate full stack developer and problem solver,currently looking for summer internship from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-anurag&label=Profile%20views&color=0e75b6&style=flat" alt="itz-anurag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-anurag" alt="itz-anurag" /></a> </p>
-
-- 🔭 I’m currently working on **Campus Connect**
+- 🔭 I’m currently working on **Campus Connect and learning DSA**
 
 - 📫 How to reach me **anuraggupta6840@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/resume_intern%20(1)_compressed%20(1).pdf](file:///C:/Users/HP/Downloads/resume_intern%20(1)_compressed%20(1).pdf)
+- 📄 Know about my experiences [anurag_resume](https://drive.google.com/file/d/1mNKJrzosEROChTp5YleaLvqIqv8GKTi4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
