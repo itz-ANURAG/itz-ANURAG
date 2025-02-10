@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anuraggupta6840@gmail.com**
 
-- 📄 Know about my experiences [anurag_resume](https://drive.google.com/file/d/1lZRTdbEyijJv6D064pY3fqij67TpUktK/view?usp=drive_link)
+- 📄 Know about my experiences [anurag_resume](https://drive.google.com/file/d/15NEYSVOSef_0vv6fVv52QZphNRjzSeHg/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
